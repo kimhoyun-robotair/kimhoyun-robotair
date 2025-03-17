@@ -8,7 +8,7 @@
 
 ### 연구 경력
 1. **KIST Research Intern (2023.09 ~ 2023.12)**
-2. **Inha RCV Lab. Research Intern (2024.09 ~ present)**
+2. **Inha RCV Lab. Research Intern (2024.09 ~ 2025.02)**
 
 ### 참여한 프로젝트
 - **아두이노 기반 소형 드론 설계 (2019.08 ~ 2019.12)**
