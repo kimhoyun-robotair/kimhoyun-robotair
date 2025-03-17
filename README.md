@@ -21,8 +21,7 @@
 - **F1TENTH 대회 출전 (2024.09 ~ present)**
   - Cartographer 기반 Mapping 및 Localization 구현
   - 오픈소스 기반 Global Planning, Controller 구현
-  - 자체적인 MPC Controller 구현 중
-  - 추월 가능 여부 판단부 구현 중
+  - Gazebo 기반 F1TENTH Simulation 구현
 - **항공우주 요소설계 (2024.03 ~ present)**
 - **항공우주 종합설계 (2024.03 ~ present)**
 - **제 23회 로봇항공기 경연대회 (2024.03 ~ present)**
