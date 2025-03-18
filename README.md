@@ -16,12 +16,12 @@
 - **제22회 로봇항공기 경연대회 (2024.03 ~ 2024.11)**
   - Depth Camera를 사용한 장애물 탐지 및 회피 구현 (PX4 Avoidance)
   - ROS2와 PX4를 통한 비행 계획 및 비행 제어 구현
-
-### 참여 중인 프로젝트
-- **F1TENTH 대회 출전 (2024.09 ~ present)**
+- **F1TENTH 대회 출전 (2024.09 ~ 2025.02)**
   - Cartographer 기반 Mapping 및 Localization 구현
   - 오픈소스 기반 Global Planning, Controller 구현
   - Gazebo 기반 F1TENTH Simulation 구현
+
+### 참여 중인 프로젝트
 - **항공우주 요소설계 (2024.03 ~ present)**
 - **항공우주 종합설계 (2024.03 ~ present)**
 - **제 23회 로봇항공기 경연대회 (2024.03 ~ present)**
