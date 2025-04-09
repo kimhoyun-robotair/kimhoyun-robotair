@@ -10,6 +10,9 @@
 1. **KIST Research Intern (2023.09 ~ 2023.12)**
 2. **Inha RCV Lab. Research Intern (2024.09 ~ 2025.02)**
 
+### 수상 실적
+1. 인하대학교 공과대학장상 (2019.12)
+
 ### 참여한 프로젝트
 - **아두이노 기반 소형 드론 설계 (2019.08 ~ 2019.12)**
   - 아두이노 기반 기본적인 PID 제어기 튜닝
@@ -23,17 +26,22 @@
 
 ### 참여 중인 프로젝트
 - **항공우주 요소설계 (2024.03 ~ present)**
+  - 로봇팔 + 차량 형상 개발
+  - 라즈베리 파이, 아두이노, 컨트롤러 기반 키트화
 - **항공우주 종합설계 (2024.03 ~ present)**
+  - 사람의 개입 없이 자율탐사를 수행하는 Indoor Multi Drone System 개발
+  - Depth Camera, IMU, T265 기반 SLAM 구현
+  - PX4 기반 Controller 구현
 - **제 23회 로봇항공기 경연대회 (2024.03 ~ present)**
+  - SW 팀장
+  - 전체 PX4 기반 경로 계획 및 비행 제어 코드 개발
+  - Monocular Camera 기반 정밀착륙, 요구조자 인식 비행 제어 코드 개발
 
-### 사용 가능한 툴
-1. ROS1 (기초)
-2. ROS2 (중급)
-3. C++ (초급)
-4. 파이썬 (중급)
-5. Gazebo Classic (중급 이상)
+### 사용 가능 Tool
+ROS1, ROS2, Gazebo, Python, C++
 
 ### 대표 리포지터리 주소
-- [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation)
-- [InhaAerodream-](https://github.com/inhaswan/InhaAerodream-)
+- [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
+- [InhaAerodream-](https://github.com/inhaswan/InhaAerodream-) : 2024년도 제 22회 로봇항공기 경연대회 참여 코드
 - [RCV Formula Repositories](https://github.com/orgs/rcv-formula/repositories)
+- [DOK4](https://github.com/kimhoyun-robotair/DOK4) : 2025년도 제 23회 로봇항공기 경연대회 참여 코드
