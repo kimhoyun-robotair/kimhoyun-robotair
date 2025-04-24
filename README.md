@@ -54,5 +54,7 @@ ROS1, ROS2, Gazebo, Python, C++
 
 ### 대표 리포지터리 주소
 - [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
+- [Gazebo_Harmonic_Rover](https://github.com/kimhoyun-robotair/Gazebo_Harmonic_Rover) : 위의 시뮬레이션을 Gazebo Harmnoic으로 Migration한 자체적인 F1TENTH 시뮬레이션
 - [RCV Formula Repositories](https://github.com/orgs/rcv-formula/repositories) : F1TENTH 관련 개발 코드, 이 중 SLAM / Global Path Planner / Pure Pursuit 기반 Controller 개발 주도
 - [DOK4](https://github.com/kimhoyun-robotair/DOK4) : 2025년도 제 23회 로봇항공기 경연대회 참여 코드
+- [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) : 2025년도 인하 종합설계 경진대회 / 전국 대학생 캡스톤 경진대회 참여 SW 스택
