@@ -38,9 +38,6 @@
   - 전체 PX4 기반 경로 계획 및 비행 제어 코드 개발
   - Monucular Camera 기반 특정 미션용 정밀 비행 제어 코드 개발
   - Aruco Marker 기반 정밀 착륙 코드 개발
-- **기업 수요지향기술 종합설계 (2025.03 ~ present)**
-  - (주)용비에이티와 함께 초소형 피토관의 풍동 테스트를 위한 전동 Zig 설계
-  - MCU 기반 전동 제어 기술 개발
 - **인하 종합설계 경진대회 (2025.04 ~ present)**
   - 시뮬레이션 상에서는 월면, 현실에서는 GPS 없는 실내에서 자율적으로 탐사를 수행하는 로버 개발
   - SW 총괄로서, SLAM (cartographer) / Path Planning (A*) / Controller (Pure Pursuit) 개발
