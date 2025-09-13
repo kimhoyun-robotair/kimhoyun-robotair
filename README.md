@@ -19,14 +19,32 @@
 ### 참여한 프로젝트
 - **아두이노 기반 소형 드론 설계 (2019.08 ~ 2019.12)**
   - 아두이노 기반 기본적인 PID 제어기 튜닝 및 초소형 쿼드콥터 개발
+  - 인하대학교 공과대학장상 수상
 - **제22회 로봇항공기 경연대회 (2024.03 ~ 2024.11)**
   - Depth Camera를 사용한 장애물 탐지 및 회피 구현 (PX4 Avoidance)
   - ROS2와 PX4를 통한 오프보드 비행 계획 및 비행 제어 구현
+  - 2차 심사 탈락으로 본선 진출 실패
 - **F1TENTH 대회 출전 (2024.09 ~ 2025.02)**
   - Cartographer 기반 Mapping 및 Localization 구현
   - 오픈소스 기반 Global Path Planning, Pure-Pursuit Controller 구현
   - Gazebo classic 기반 F1TENTH Simulation 구현
   - Gazebo Harmonic 기반 F1TENTH Simulation 구현
+- **제 23회 로봇항공기 경연대회 (2025.03 ~ 25.09.06)**
+  - SW 팀장 담당
+  - 다음과 같은 SW를 개발함
+    - WGS84로 주어진 좌표점들에 대한 경로점 자율 비행 (Mission 기반, Offboard 기반)
+    - 단안 카메라, AprilTag 기반 멀티콥터, VTOL 기체의 정밀착륙
+    - YOLO 기반 BBox를 기준으로, 탐지된 객체를 향한 접근 및 호버링
+  - 본선에 진출하였으나 부족한 준비 및 기상상황 등으로 수상 실패
+- **제 7회 한국항공우주시스템공학회 대학생 캡스톤 경진대회 (2025.07 ~ 2025.09)**
+  - 대회 팀장, 프로젝트 기획 및 조율, SW 전체 개발 담당
+  - 다음과 같은 프로젝트를 진행함
+    - RGB-D 카메라와 2D LiDAR에 기반한 자율 탐색 프로그램 개발
+    - 장애물 등을 돌파시 Roll 및 Pitch Trim 상태 유지가 가능한 센서 탑재용 짐벌 시스템 개발
+    - RGB-D 카메라 기반 특정 물체 인식 + 로봇팔을 활용한 파지 개발 (ESP32 기반 로봇팔 제어)
+    - 험지 주파 및 돌파가 가능한 Rocker 기반의 4륜 로버 개발 (ESP32 기반 모터 제어)
+  - 한화에어로스페이스대표이사상 수상
+  - 동일 주제로 인하대학교 교내 대회인 **인하 종합설계 경진대회**에 출전하였으나 수상에는 실패함
 
 ### 참여 중인 프로젝트
 - **항공우주 종합설계 (2025.03 ~ present)**
@@ -43,24 +61,12 @@
   - 현재까지 구현된 내용은 다음과 같음
     - PX4 SITL (Gazebo Harmonic) 기반 자체적인 시뮬레이션 모델 구현
     - RTAB-MAP, m-Explore, Nav2에 기반한, 고도를 고정한 2차원 자율탐사/경로생성 소프트웨어 스택 구현
-- **제 23회 로봇항공기 경연대회 (2025.03 ~ present)**
-  - SW 팀장 담당
-  - 다음과 같은 SW를 개발함
-    - WGS84로 주어진 좌표점들에 대한 경로점 자율 비행
-    - 단안 카메라, AprilTag 기반 멀티콥터, VTOL 기체의 정밀착륙
-    - YOLO 기반 BBox를 기준으로, 탐지된 객체를 향한 접근 및 호버링
-- **인하 종합설계 경진대회 (2025.04 ~ present)**
-  - 시뮬레이션 상에서는 월면, 현실에서는 GPS 없는 실내에서 자율적으로 탐사를 수행하는 로버 개발
-  - Gazebo Harmonic 기반 로버 시뮬레이션 환경 구성
-  - Depth Camera, IMU, 2D LiDAR, Visual Odometry를 복합적으로 사용하는 로버 구현
-  - Frontier - Based Autonomous Exploration과 Nav2를 결합해서 자율 탐사 기능 구현
-  - YOLO와 MoveIt2!를 결합한, 로봇팔 통합 기획 진행 중
 - **AuTURBO 드론 프로젝트 (2025.04 ~ present)**
   - PX4, ROS2 Humble, AirSim을 통한 드론 SW 개발 프로젝트
   - TBD
 
 ### 사용 가능 Tool
-ROS1, ROS2, Gazebo(classic/Harmonic), Python, C++
+ROS1, ROS2, Gazebo(classic/Harmonic), Python, C++, C
 
 ### 대표 리포지터리 주소
 - [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
