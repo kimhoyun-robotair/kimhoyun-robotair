@@ -1,7 +1,7 @@
 ## Welcome to My Github
 
 제 포트폴리오를 위해서, 다음 사이트를 확인 부탁드립니다!
-https://jelly-anise-533.notion.site/Hoyun-Kim-281fd287f635801aba1df273726e67dc
+- [kimhoyun-robotair](https://jelly-anise-533.notion.site/Hoyun-Kim-281fd287f635801aba1df273726e67dc)
 
 ### 대표 리포지터리 주소
 - [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
