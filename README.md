@@ -5,7 +5,7 @@
 
 ### 대표 리포지터리 주소
 - [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
-- [Gazebo_Harmonic_Rover](https://github.com/kimhoyun-robotair/Gazebo_Harmonic_Rover) : 위의 시뮬레이션을 Gazebo Harmnoic으로 Migration한 자체적인 F1TENTH 시뮬레이션
-- [RCV Formula Repositories](https://github.com/orgs/rcv-formula/repositories) : F1TENTH 관련 개발 코드, 이 중 SLAM / Global Path Planner / Pure Pursuit 기반 Controller 개발 주도
 - [DOK4](https://github.com/kimhoyun-robotair/DOK4) : 2025년도 제 23회 로봇항공기 경연대회 참여 코드
-- [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) : 2025년 항공우주종합설계 및 다양한 로버 개발을 위해 개설한 리포지터리
+- [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) : 항공우주시스템공학회 전국 대학생 캡스톤 경진대회 출전을 위한 리포지터리, 한화에어로스페이스 대표이사상 수상
+- [2025PhysicalAIChallenge](https://github.com/kimhoyun-robotair/2025PhysicalAIChallenge) : 정보통신공학회 2025 Physical AI Challenge 대회 출전을 위한 리포지터리, 동상 (로봇신문사장상) 수상
+- [2025AUTORACE](https://github.com/kimhoyun-robotair/2025AUTORACE) : 국민대학교 미래자동차사업단에서 주관하는 2025 스케일카 자율주행 경진대회 출전을 위한 리포지터리
