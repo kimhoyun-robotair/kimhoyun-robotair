@@ -4,6 +4,7 @@
 - [kimhoyun-robotair](https://jelly-anise-533.notion.site/Hoyun-Kim-281fd287f635801aba1df273726e67dc)
 
 ### 대표 리포지터리 주소
+- [2025_Aerospace_Capstone_Design](https://github.com/kimhoyun-robotair/2025_Aerospace_Capstone_Design) : 2025년 국립창원대학교 자율로봇경진대회 및 인하대학교 항공우주 종합설계 (캡스톤 프로젝트) 진행 사항을 저장한 리포지터리
 - [F1TENTH_Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) : Gazebo Classic 기반 자체적인 F1TENTH 시뮬레이션
 - [DOK4](https://github.com/kimhoyun-robotair/DOK4) : 2025년도 제 23회 로봇항공기 경연대회 참여 코드
 - [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) : 항공우주시스템공학회 전국 대학생 캡스톤 경진대회 출전을 위한 리포지터리, 한화에어로스페이스 대표이사상 수상
