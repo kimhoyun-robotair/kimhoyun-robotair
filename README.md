@@ -11,21 +11,19 @@ My interests span **field robotics**, **aerospace engineering**, and **Sim2Real*
 - Aerospace robotics and engineering
 - Sim2Real transfer and Robotics simulation such as Gazebo & Isaac Sim
 
-## Undergraduate Portfolio
+## Portfolio
 
 To learn more about my undergraduate work and experience, visit my [portfolio](https://jelly-anise-533.notion.site/Hoyun-Kim-281fd287f635801aba1df273726e67dc) and explore the selected projects below.
 
-### Simulation
+### Selected Papers (Research & Project Page, Code)
 
-- [Gazebo Harmonic Rover](https://github.com/kimhoyun-robotair/Gazebo_Harmonic_Rover) — A custom F1TENTH-compatible rover simulation with multiple sensors in Gazebo Harmonic.
-- [F1TENTH Simulation](https://github.com/kimhoyun-robotair/F1TENTH_Simulation) — A custom F1TENTH simulation built with Gazebo Classic.
+- ***MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation*** : Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/). Full Paper, Project Page and Codes will be appeared soon.
+- ***Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps*** : Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/). Full Paper wlll be appeared soon.
 
-### Ground Robots and Autonomous Vehicles
+### Selected Projects (Not Research)
 
-- [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) — A rover developed for the national university capstone competition hosted by the Society for Aerospace System Engineering; recipient of the **Hanwha Aerospace CEO Award**.
-- [2025 Physical AI Challenge](https://github.com/kimhoyun-robotair/2025_PhysicalAIChallenge) — A Physical AI competition project; recipient of the **Bronze Award (Robot Newspaper President's Award)**.
-- [2025 AUTORACE](https://github.com/kimhoyun-robotair/2025_AUTORACE) — An autonomous scale-car project for the 2025 competition hosted by Kookmin University's Future Automotive Program.
-
-### Aerial Robotics
-
-- [DOK4](https://github.com/kimhoyun-robotair/DOK4) — Development code for the 23rd Robot Aircraft Competition in 2025.
+- [***Robotics Simulation Tutorial***](https://github.com/kimhoyun-robotair/robotics-sim-tutorial-kr) : Curated Simulation Assets/Research/Repos and Tutorial for Gazebo and Isaac Sim.
+- [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G) — **Undergraduate Project**. A rover developed for the national university capstone competition hosted by the Society for Aerospace System Engineering; recipient of the **Hanwha Aerospace CEO Award**.
+- [2025 Physical AI Challenge](https://github.com/kimhoyun-robotair/2025_PhysicalAIChallenge) — **Undergraduate Project**. A Physical AI competition project; recipient of the **Bronze Award (Robot Newspaper President's Award)**.
+- [2025 AUTORACE](https://github.com/kimhoyun-robotair/2025_AUTORACE) — **Undergraduate Project**. An autonomous scale-car project for the 2025 competition hosted by Kookmin University's Future Automotive Program.
+- [DOK4](https://github.com/kimhoyun-robotair/DOK4) — **Undergraduate Project**. Development code for the 23rd Robot Aircraft Competition in 2025.
