@@ -17,10 +17,10 @@ To learn more about my undergraduate work and experience, visit my [portfolio](h
 
 ### Selected Papers (Research & Project Page, Code)
 
-1. ***MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation***
-    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/). Full Paper, Project Page and Codes will be appeared soon.
-2. ***Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps***
-    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/). Full Paper wlll be appeared soon.
+1. [***MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation***](https://kimhoyun-robotair.github.io/MarsLab/)
+    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/). You can find MarsLab's codebase in [**Here**](https://github.com/kimhoyun-robotair/MarsLab)
+2. [***Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps***](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation)
+    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).
 
 ### Selected Projects (Not Research)
 
