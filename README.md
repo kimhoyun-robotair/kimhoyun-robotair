@@ -25,10 +25,13 @@ To learn more about my undergraduate work and experience, visit my [portfolio](h
     - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).
     - You can fine the project page (database) in [**Here**](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation).
 
-### Selected Projects (Not Research)
+### Selected Projects in Gradudate School (Not Research)
 
 - [***Robotics Simulation Tutorial***](https://github.com/kimhoyun-robotair/robotics-sim-tutorial-kr)
   - Curated Simulation Assets/Research/Repos and Tutorial for Gazebo and Isaac Sim, Isaac Lab.
+ 
+### Selected Projects in Undergraduate School
+
 - [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G)
   - **Undergraduate Project**. A rover developed for the national university capstone competition hosted by the Society for Aerospace System Engineering; recipient of the **Hanwha Aerospace CEO Award**.
 - [2025 Physical AI Challenge](https://github.com/kimhoyun-robotair/2025_PhysicalAIChallenge)
