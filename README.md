@@ -23,9 +23,9 @@ To learn more about my undergraduate work and experience, visit my [portfolio](h
     - And you can find the project page in [**Here**](https://kimhoyun-robotair.github.io/MarsLab/).
 2. ***Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps***
     - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).
-    - You can fine the project page (database) in [**Here**](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation).
+    - You can find the project page (database) in [**Here**](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation).
 
-### Selected Projects in Gradudate School (Not Research)
+### Selected Projects in Graduate School (Not Research)
 
 - [***Robotics Simulation Tutorial***](https://github.com/kimhoyun-robotair/robotics-sim-tutorial-kr)
   - Curated Simulation Assets/Research/Repos and Tutorial for Gazebo and Isaac Sim, Isaac Lab.
