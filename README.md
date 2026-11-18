@@ -20,11 +20,10 @@ To learn more about my research and projects, please visit my [**personal websit
 
 1. **MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**
    - **Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).**
-   - **Resources:** [GitHub Repository](https://github.com/kimhoyun-robotair/MarsLab) | [Project Website](https://kimhoyun-robotair.github.io/MarsLab/)
+   - **Resources:** [GitHub Repository](https://github.com/kimhoyun-robotair/MarsLab) | [Project Website](https://kimhoyun-robotair.github.io/projects/marslab/)
 
 2. **Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps**
    - **Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).**
-   - **Resources:** [Survey Database](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation)
 
  
 ### Projects
