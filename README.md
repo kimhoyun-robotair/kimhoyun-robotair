@@ -1,42 +1,47 @@
 # Hi, I'm Hoyun Kim
 
-I am currently pursuing a Master's degree at **DGIST** in South Korea, where I am a member of [**APRL**](https://team-aprl.github.io/).
+I received my bachelor’s degree in **Aerospace Engineering** from [Inha University](https://www.inha.ac.kr/eng/index.do). I am now a master’s student at [DGIST](https://www.dgist.ac.kr/eng/index.do) in South Korea and a member of the [**Autonomy and Perceptual Robotics Lab (APRL)**](https://team-aprl.github.io/).
 
-My interests span **field robotics**, **aerospace engineering**, and **Sim2Real**. I am particularly interested in building autonomous robotic systems that can transfer capabilities developed in simulation to reliable operation in challenging real-world environments.
+My interests span **Field Robotics**, **Aerospace Engineering**, **Sim2Real**, and **SLAM**. I am particularly interested in building autonomous robotic systems that transfer capabilities developed in simulation to reliable operation in challenging real-world environments.
 
 ## Research Interests
 
-- Field robotics and autonomous systems
-- Sensor Fusion and Sensor Integration
-- Aerospace robotics and engineering
-- Sim2Real transfer and Robotics simulation such as Gazebo & Isaac Sim
+- Field robotics
+- Autonomous System
+- Aerospace Engineering including Aerial and Space Robotics
+- Sim2Real w. Gazebo and Isaac Sim(Lab)
+- SLAM
 
 ## Portfolio
 
-To learn more about my undergraduate work and experience, visit my [portfolio](https://jelly-anise-533.notion.site/Hoyun-Kim-281fd287f635801aba1df273726e67dc) and explore the selected projects below.
+To learn more about my research and projects, please visit my [**personal website**](https://kimhoyun-robotair.github.io/).
 
 ### Selected Papers (Research & Project Page, Code)
 
-1. ***MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation***
-    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).
-    - You can find MarsLab's codebase in [**Here**](https://github.com/kimhoyun-robotair/MarsLab).
-    - And you can find the project page in [**Here**](https://kimhoyun-robotair.github.io/MarsLab/).
-2. ***Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps***
-    - Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).
-    - You can find the project page (database) in [**Here**](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation).
+1. **MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**
+   - **Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).**
+   - **Resources:** [GitHub Repository](https://github.com/kimhoyun-robotair/MarsLab) | [Project Website](https://kimhoyun-robotair.github.io/MarsLab/)
 
-### Selected Projects in Graduate School (Not Research)
+2. **Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps**
+   - **Accepted to [iSpaRo 2026](https://www.isairas-isparo.de/).**
+   - **Resources:** [Survey Database](https://github.com/kimhoyun-robotair/Survey-For-Planetary-Robotic-Simulation)
 
-- [***Robotics Simulation Tutorial***](https://github.com/kimhoyun-robotair/robotics-sim-tutorial-kr)
-  - Curated Simulation Assets/Research/Repos and Tutorial for Gazebo and Isaac Sim, Isaac Lab.
  
-### Selected Projects in Undergraduate School
+### Projects
+- [MarsLab](https://github.com/kimhoyun-robotair/MarsLab)
+  - **Research Project (2026)**. A Martian rover simulation platform developed using NVIDIA Isaac Sim, featuring configurable planetary environments, multi-modal sensing, and ROS 2 integration for autonomous navigation research. Published at **iSpaRo 2026**.
+
+- [F1TENTH](https://kimhoyun-robotair.github.io/projects/f1tenth/)
+  - **Undergraduate Project (2025)**. Autonomous racing software developed with RCV Formula, focusing on SLAM and state estimation using 2D LiDAR, wheel odometry, and IMU measurements.
+
+- [DOK4](https://github.com/kimhoyun-robotair/DOK4)
+  - **Undergraduate Project (2025)**. A custom VTOL aircraft developed for the 23rd Robot Aircraft Competition, featuring ROS 2 and PX4-based autonomous search-and-rescue capabilities.
+
+- [2025 AUTORACE (Dudeoji)](https://github.com/kimhoyun-robotair/2025_AUTORACE)
+  - **Undergraduate Project (2025)**. An autonomous scale-car project developed for the 2025 AUTO RACE competition hosted by Kookmin University's Future Automotive Program, utilizing ROS 2 and Gazebo for simulation and autonomous driving.
 
 - [DARAM-G](https://github.com/kimhoyun-robotair/DARAM-G)
-  - **Undergraduate Project**. A rover developed for the national university capstone competition hosted by the Society for Aerospace System Engineering; recipient of the **Hanwha Aerospace CEO Award**.
-- [2025 Physical AI Challenge](https://github.com/kimhoyun-robotair/2025_PhysicalAIChallenge)
-  - **Undergraduate Project**. A Physical AI competition project; recipient of the **Bronze Award (Robot Newspaper President's Award)**.
-- [2025 AUTORACE](https://github.com/kimhoyun-robotair/2025_AUTORACE)
-  - **Undergraduate Project**. An autonomous scale-car project for the 2025 competition hosted by Kookmin University's Future Automotive Program.
-- [DOK4](https://github.com/kimhoyun-robotair/DOK4)
-  - **Undergraduate Project**. Development code for the 23rd Robot Aircraft Competition in 2025.
+  - **Undergraduate Project (2025)**. An autonomous exploration rover developed for the National University Capstone Design Competition hosted by the Society for Aerospace System Engineering (SASE); recipient of the **Hanwha Aerospace CEO Award**.
+
+- [InhaAerodream](https://github.com/inhaswan/InhaAerodream-)
+  - **Undergraduate Project (2024)**. A custom VTOL aircraft developed for the 22nd Robot Aircraft Competition, featuring ROS 2 and PX4-based autonomous flight, obstacle avoidance, and precision landing.
